@@ -20,7 +20,7 @@ In this project we are building a frontend for a customeized AI chatbot selling 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/vansh-khaneja/OpenChat-Frontend/
+    https://github.com/Ujjawal-04/OpenChat-Frontend.git
     cd OpenChat-Frontend
     ```
 
