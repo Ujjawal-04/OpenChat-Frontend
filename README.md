@@ -1,4 +1,4 @@
-# OpenChat - A customizable chatbot solution
+# OpenChat - A customizable chatbot solutions
 This repo will guide you over building a platform from where the buisnesses can build up a more personalized chatbots to gain more user interaction and also automate the process and thereby saving workforce. This project use ```Langraph``` for a special agentic mechanism to increase the accuracy of the chatbot.
 
 ![Alt text](https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fe83dad652a18447b9d4457187f23486a%2Fprojects%2F42640edbacb644fca67fcc4b7c3c1ef3%2Ffcf0452e-c8cc-4e63-821a-85d0e6209869.png&w=1440&q=75)
