@@ -43,7 +43,7 @@ This will run the server over ```localhost:3000```.
 
 For any questions or issues, feel free to open an issue on this repository or contact me.
 
-Happy coding!
+Happy coding :)
 
 
   
